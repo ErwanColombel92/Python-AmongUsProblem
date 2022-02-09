@@ -1,6 +1,9 @@
 # Python-AmongUsProblem
 Project in which we modelise an Among Us problem using graph theories.
 
+
+![map](https://user-images.githubusercontent.com/59508102/153099073-278e991f-c237-46a6-9243-a198a5868512.jpg)
+
 The rules are as following:
 
     Total of 100 players
@@ -27,3 +30,6 @@ We need to find who could be the killer using graphs.
 
 Considering that a player can only walk through the map, but an impostor can also travel with vent, it is important to compute the time to travel between each room for crewmates and impostors.
 We compare the time to travel between any pair of room in two cases: if you are a crewmate; if you are an impostor.
+
+![impostor map](https://user-images.githubusercontent.com/59508102/153099063-f3732c58-7362-4354-b050-e1b92a954c5e.jpg)
+
